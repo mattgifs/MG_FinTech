@@ -70,7 +70,7 @@ It's not as much a new product or service as it is an augmentation to the produc
 ### Why do you think that offering this product or service would benefit the company?
 A few reasons:
 - **It would further simplify the creation of custom Symphonies**. Instead of dragging and dropping blocks of code, assigning weights, and selecting securities, the user could simply craft a prompt in text, and AI could generate the blueprint for the strategy. I believe this would take the user from zero to one much faster. A better first experience with the platform would also lead to much greater excitement, and likely a higher referral rate. 
-- **AI could also be deployed by the firm itself to generate and test its prebuilt Symphonies**. Continuous improvement with these would likely lead to more complex but profitable strategies. At a certain point, Composer could probably get away with charging a small premium to utilize those strategies. Granted, this may be going against the Composer's mission (hedge fund returns without hedge fund costs or exclusivity, more or less), but if 1) the strategies are good enough, 2) people are willing to pay, and 3) the cost is negligible compared to those of larger funds - revenue is revenue. 
+- **AI could also be deployed by the firm itself to generate and test its prebuilt Symphonies**. Continuous improvement with these would likely lead to more complex but profitable strategies. At a certain point, Composer could probably get away with charging a small premium to utilize those strategies. Granted, this may be going against Composer's mission (hedge fund returns without hedge fund costs or exclusivity, more or less), but if 1) the strategies are good enough, 2) people are willing to pay, and 3) the cost is negligible compared to those of larger funds - revenue is revenue. 
 - **Timing**. Narrow-ish AI is having a moment in 2023, and has proved interesting already, if not downright useful. Its implementation would bring some attention to Composer and ideally would increase active users and AUM pretty quickly.
 
 ### What technologies would this additional product or service utilize?
@@ -81,8 +81,7 @@ ChatGPT in particular seems like a logical piece of tech to use for at least som
 
 
 ### Sources
-[Composer.trade](https://www.composer.trade/)
-
+[Composer.trade](https://www.composer.trade/)\n
 [Composer Blog](https://www.composer.trade/blog)
 [Benjamin Rollert LinkedIn](https://www.linkedin.com/in/benrollert/)
 [Ananda Aisola LinkedIn](https://www.linkedin.com/in/anandaaisola/)
