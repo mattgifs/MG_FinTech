@@ -1,5 +1,4 @@
-# Composer Technologies Inc.
-## Customizable Systematic Investing for Everyday Investors
+# Composer Technologies Inc. - Customizable Systematic Investing for Everyday Investors
 
 ## Overview and Origin
 
