@@ -3,9 +3,9 @@ DROP TABLE if exists zillow_data;
 
 CREATE TABLE zillow_data(
 	indicator_id VARCHAR,
-	region_id VARCHAR,
-	date VARCHAR,
-	value VARCHAR
+	region_id INT,
+	date DATE,
+	value FLOAT
 );
 ----------
 --remove header that was imported through the import tool (forgot to toggle Options>Header>On)
